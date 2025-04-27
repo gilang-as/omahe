@@ -30,4 +30,11 @@
 - [ ] Wi-Fi Connectivity
   - [ ] App - Wifi Connect
   - [ ] Esp32 - Logic
+- [ ] Server
+  - [ ] Webhook url
+  - [ ] MQTT Server
+  - [ ] Admin Rest API
+- [ ] Home Assistant
+  - [ ] App - Home assistant configuration
+  - [ ] Esp32 - Integration mqtt
 TBD
